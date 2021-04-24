@@ -1,6 +1,6 @@
 # Unit 5 - Financial Planning
 
-![Financial Planner](../Images/financial-planner.png)
+![Financial Planner](Imagines/financial-planner.png)
 
 ## Background
 
